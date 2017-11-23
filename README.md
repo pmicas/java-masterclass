@@ -1,2 +1,2 @@
 # java-masterclass
-Udemy java masterclass by @Tim Buchalka
+Udemy java masterclass by @TimBuchalka
